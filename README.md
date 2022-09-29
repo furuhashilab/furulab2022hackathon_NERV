@@ -1,7 +1,7 @@
 # furulab2022hackathon_NERV
 ## 2022年　９月　ウクライナハッカソン
 
-<img src="https://user-images.githubusercontent.com/416977/174787322-143e93ed-2cb5-4e17-84f2-cf8d8a67d221.png" width="200" />
+<img src="https://github.com/furuhashilab/furulab2022hackathon_NERV/blob/main/Image/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202022-09-29%2018.07.59.png" />
 
 ### ルール
 * ２名１組でチームつくる
