@@ -9,5 +9,5 @@
  * 前線抽出班： 前線の時間変化データ作成
  
 ### メンバー
-　* Urara Nagashima
-　* Kohki Kikuchi
+[Urara Nagashima](https://github.com/urara222000)  
+[Kohki Kikuchi](https://github.com/kk-kkch03)
