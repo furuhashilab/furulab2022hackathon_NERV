@@ -9,5 +9,5 @@
  * 前線抽出班： 前線の時間変化データ作成
  
 ### メンバー
-　＊Urara Nagashima
- ＊Kohki Kikuchi
+　* Urara Nagashima
+　* Kohki Kikuchi
