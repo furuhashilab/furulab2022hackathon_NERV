@@ -9,7 +9,7 @@
  * 前線抽出班： 前線の時間変化データ作成
  
 ### Project
-https://github.com/orgs/furuhashilab/projects/14
+* [UkraineHackathon_NERV_project](https://github.com/orgs/furuhashilab/projects/14)
  
 ### メンバー
 * [Urara Nagashima](https://github.com/urara222000)  
